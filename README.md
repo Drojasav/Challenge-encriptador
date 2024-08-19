@@ -8,10 +8,13 @@ El Encriptador es una herramienta web que transforma tu texto ordinario en un me
 🌟 ***Características Principales***
 
 ***Encriptación y Desencriptación:*** Convierte texto claro en código y viceversa, ¡todo con solo un clic!
+
 ***Interfaz Interactiva:*** Un diseño atractivo y fácil de usar que te hará sentir como un experto en encriptación.
+
 ***Accesible en Todos los Navegadores:*** Funciona en tu navegador favorito, así que no hay excusas para no probarlo.
 
 🛠️ ***Tecnologías Utilizadas***
+
 ***HTML:*** La estructura de tu herramienta secreta.
 ***CSS:*** Para que todo luzca increíble.
 ***JavaScript:*** La magia detrás de la encriptación.
