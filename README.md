@@ -16,5 +16,7 @@ El Encriptador es una herramienta web que transforma tu texto ordinario en un me
 🛠️ ***Tecnologías Utilizadas***
 
 ***HTML:*** La estructura de tu herramienta secreta.
+
 ***CSS:*** Para que todo luzca increíble.
+
 ***JavaScript:*** La magia detrás de la encriptación.
