@@ -1,4 +1,5 @@
 ✨ ***Challenge - Encriptador Oracle - Alura Latam***
+
 ¡Bienvenido al Encriptador! Este proyecto nace de un desafío de Alura, donde la diversión y la tecnología se unen para permitirte enviar mensajes secretos a tus amigos y familiares. ¿Estás listo para convertirte en un maestro de la encriptación? ¡Vamos a ello!
 
 🧩 ***¿Qué es el Encriptador?***
